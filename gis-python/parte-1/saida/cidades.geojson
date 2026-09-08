@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "cidades",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "nome": "Cascavel", "estado": "PR", "populacao": 372026, "latitude": -24.9558, "longitude": -53.4553 }, "geometry": { "type": "Point", "coordinates": [ -53.4553, -24.9558 ] } },
+{ "type": "Feature", "properties": { "id": 1, "nome": "Guarulhos", "estado": "SP", "populacao": 1351284, "latitude": -23.4628, "longitude": -46.5333 }, "geometry": { "type": "Point", "coordinates": [ -46.5333, -23.4628 ] } },
+{ "type": "Feature", "properties": { "id": 2, "nome": "São Bernado do Campo", "estado": "SP", "populacao": 842558, "latitude": -23.6939, "longitude": -46.565 }, "geometry": { "type": "Point", "coordinates": [ -46.565, -23.6939 ] } },
+{ "type": "Feature", "properties": { "id": 3, "nome": "Santo André", "estado": "SP", "populacao": 784290, "latitude": -23.6666, "longitude": -46.5322 }, "geometry": { "type": "Point", "coordinates": [ -46.5322, -23.6666 ] } },
+{ "type": "Feature", "properties": { "id": 4, "nome": "Osasco", "estado": "SP", "populacao": 761441, "latitude": -23.5325, "longitude": -46.7917 }, "geometry": { "type": "Point", "coordinates": [ -46.7917, -23.5325 ] } },
+{ "type": "Feature", "properties": { "id": 5, "nome": "São José dos Campos", "estado": "SP", "populacao": 729153, "latitude": -23.1794, "longitude": -45.8869 }, "geometry": { "type": "Point", "coordinates": [ -45.8869, -23.1794 ] } },
+{ "type": "Feature", "properties": { "id": 6, "nome": "Riberirão Preto", "estado": "SP", "populacao": 734538, "latitude": -21.1775, "longitude": -47.8103 }, "geometry": { "type": "Point", "coordinates": [ -47.8103, -21.1775 ] } },
+{ "type": "Feature", "properties": { "id": 7, "nome": "Londrina", "estado": "PR", "populacao": 584465, "latitude": -23.3106, "longitude": -51.1628 }, "geometry": { "type": "Point", "coordinates": [ -51.1628, -23.3106 ] } },
+{ "type": "Feature", "properties": { "id": 8, "nome": "Itarema", "estado": "CE", "populacao": 46219, "latitude": -2.9213, "longitude": -39.9147 }, "geometry": { "type": "Point", "coordinates": [ -39.9147, -2.9213 ] } },
+{ "type": "Feature", "properties": { "id": 9, "nome": "Sobral", "estado": "CE", "populacao": 217690, "latitude": -3.6834, "longitude": -40.3497 }, "geometry": { "type": "Point", "coordinates": [ -40.3497, -3.6834 ] } }
+]
+}
