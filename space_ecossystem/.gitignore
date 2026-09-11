@@ -1,0 +1,17 @@
+#ambiente virtual
+.venv/
+
+
+#cache do python
+__pycache__/
+*.py[cod]
+
+#variáveis de ambiente
+.env
+
+
+.python-version
+src
+pyproject.toml
+uv.lock
+README.md
